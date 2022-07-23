@@ -1,4 +1,3 @@
-import logging
 from LoggerUtility import LoggerUtility
 import WebDriverUtility
 import RouterUtility

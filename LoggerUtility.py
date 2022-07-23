@@ -8,6 +8,6 @@ class LoggerUtility:
 
     @staticmethod
     def init_logger():
-        logging.basicConfig(filename=path, level=logging.DEBUG, 
+        logging.basicConfig(filename=path, level=logging.WARNING, 
                         format='%(asctime)s %(levelname)s %(name)s %(message)s')
         return logging

@@ -1,4 +1,3 @@
-from logging import Logger
 from LoggerUtility import LoggerUtility
 import WebDriverUtility
 import RouterUtility
